@@ -1,0 +1,50 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:#D5D5DE;
+
+ 
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color:#141F33;
+  height: 100px;  
+}
+
+
+
+table{
+margin-left: 160px;
+border: 10px solid black;
+border-collapse:collapse;
+background-color:#B4BED4;
+border: 0px solid #A62000;
+font-family: 'Lato', sans-serif;
+ padding:8px:
+width:30%;
+}
+th{
+height:38px;
+text-align: center;
+background-color:#9A9AB3;
+
+color:black;
+border: 1px solid black;
+}
+
+td{
+text-align: center;
+padding:10px;
+border: 1px solid black;
+}
+
+.accordion{
+
+margin-left: 40px;
+  margin-right: 40px;
+   }
+  
+  #recipe
+  {background-color:#CCD3E0;
+  font-family: 'Lato', sans-serif;}
